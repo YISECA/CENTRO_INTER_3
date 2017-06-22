@@ -2,9 +2,9 @@
 
 
 
-<h1>Caminata PARQUE ECOLÓGICO DISTRITAL DE MONTAÑA ENTRENUBES DOMINGO 18 de Junio 2017</h1>
+<h1>Caminata CENTRO INTERNACIONAL DOMINGO 25 de Junio 2017</h1>
 
-<h2>Punto de encuentro: Cra 5 Nº 48p sur polideportivo de Molinos II</h2>
+<h2>Punto de encuentro: Torre del reloj del Parque Nacional carrea 7 calle 36 </h2>
 
 <h2>Hora de salida: 8:00am</h2>
 

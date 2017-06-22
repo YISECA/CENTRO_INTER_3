@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1"><font size="5"> PARQUE ECOLÓGICO DISTRITAL DE MONTAÑA ENTRENUBES DOMINGO 18 de Junio 2017</font></div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1"><font size="5"> CENTRO INTERNACIONAL DOMINGO 25 de Junio 2017</font></div>
 
                     </div>
 <br>
@@ -32,21 +32,21 @@
 
                                 <li class="elmnt-one">                                 
 
-                                        <div class="wrap"><img src="public/Img/nubes.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/centro.jpg"  height="400">
 
                                         </div>                                   
                                 </li>
 
                                <li class="elmnt-two">
                                     
-                                        <div class="wrap"><img src="public/Img/nubes1.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/centro1.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
 
                                  <li class="elmnt-three">
                                     
-                                        <div class="wrap"><img src="public/Img/nubes2.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/centro2.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
@@ -76,25 +76,32 @@
 
                         <h3>Ubicación</h3>
 
-                        <p align="justify"><font size="3">El sendero se encuentra ubicado en la las localidades de san Cristóbal, Rafael Uribe Uribe y Usme. El parque colinda al oriente con los barrios se Juan Rey, la Belleza, la Flora y el agroparque los Soches, hacia el occidente en la parte baja se encuentra la Avenida Caracas vía Usme, barrio el Danubio, La Fiscala, Santa Marta, Santa Librada, la ladrillera Santa fe y el portal de Transmilenio de Usme, hacia el norte con el extremo sur de la avenida Décima (en donde se encuentra el cerro Guacamayas) se encuentran barrios como Cerros de Oriente, Barcelona, Las Lomas y el Parque recreativo Bosque de San Carlos, al sur con el sector rural de Usme,  la autopista al Llano que corta la cuchilla del Gavilán, barrios que pertenecen a la comuna Alfonso López: El Uval, Alfonso López Serranías, Tocaimita y Compostelas.
-                        El parque hace parte del sistema de áreas protegidas del distrito y es catalogado como parque ecológico distrital de montaña, tienes 626 hectáreas distribuidas en 3 cerros; Guacamayas, Juan rey y Cuchilla del Gavilán.</font></p>
+                        <p align="justify"><font size="3">El centro Internacional está ubicado en el centro oriente de Bogotá,  localidad 3° de Santa Fe. Allí se cuenta con uno de los parques más representativos de la ciudad, el parque Nacional y en muchos escenarios de su entorno tienen lugar acontecimientos históricos, políticos, sociales y económicos que trazan un recorrido único con una perspectiva moderna y patrimonial de la ciudad. El recorrido acompañado por la reconocida a nivel mundial “Ciclo vía” finaliza en el mercado de Pulgas San Alejo, declarado Patrimonio Cultural y turístico de Bogotá.</font></p>
 
                         <h3>Descripción del recorrido </h3>
 
-                        <p align="justify"><font size="3">El recorrido dará inicio en el polideportivo de molinos, allí se hará un desplazamiento de aproximadamente 10 minutos hasta la entrada del parque, donde se realizara un calentamiento de 20 minutos, se darán las indicaciones y las recomendaciones de la actividad, posteriormente se continuara con la caminata donde se pasara por los siguientes lugares:</font></p>
+                        <p align="justify"><font size="3">El recorrido da inicio en el parque Nacional, en la torre del reloj, donde se realizará un calentamiento, el guía de caminatas del IDRD dará las recomendaciones propias del recorrido necesarias para su ejecución y se dará inicio al recorrido.</font></p>
 
-                       <!-- <h2>Durante el recorrido se visitaran los siguientes atractivos:</h2>-->
+                       <h3>Durante el recorrido se visitaran los siguientes atractivos:</h3>
                         <ul class="ul_inicio">
                             <font size="3">
-                            <li>Barrio el triunfo </li>
-                            <li>Administración del parque </li>
-                            <li>Parque de la tierra </li>
-                            <li>Humedales artificiales </li>
-                            <li>Centro de amistad con tierra  (C.A.T</li>
-                            <li>Alto de la cruz</li>
-                            <li>Mirador del relleno sanitario de Doña Juana </li>
-                            <li>Refugio </li>
-                            <li>Mirador de juan Rey </li>
+                            <li>Parque Nacional </li>
+                            <li>Barrio La Merced </li>
+                            <li>Sector San Martin </li>
+                            <li>Exteriores de:
+                                <strong> <ol>
+                                     <li>Museo Nacional </li>
+                                     <li>Parque Central Bavaria </li>
+                                     <li>Plaza de Toros </li>
+                                     <li>Torres del Parque </li>
+                                     <li>Planetario Distrital </li>
+                                     <li>Torre Colpatria </li>
+                                     <li>Museo de arte Moderno de Bogotá MAMBO </li>
+                                </ol></strong>
+                            </li> 
+                            <li>Parque de la Independencia</li>
+                            <li>Parque Bicentenario</li>
+                            <li>Mercado de Pulgas San Alejo  </li>
                             </font>
                         </ul>
                         <br>
@@ -115,7 +122,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Cra 5 Nº 48p sur polideportivo de Molinos II</p>
+                                            <p>Torre del reloj del Parque Nacional carrea 7 calle 36 </p>
 
                                         </td>
 
@@ -131,7 +138,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 18 de Junio de 2017</p>
+                                            <p>Domingo 25 de Junio de 2017</p>
 
                                         </td>
 
@@ -163,7 +170,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>50 Personsa</p>
+                                            <p>40 Personsa</p>
 
                                         </td>
 
@@ -179,7 +186,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>12 A 60 años</p>
+                                            <p>APTA PARA TODA LA FAMILIA</p>
 
                                         </td>
 
@@ -197,7 +204,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>3.105 m.s.n.m</td>
+                                            <p>2.600 m.s.n.m</td>
 
                                     </tr>
 
@@ -211,7 +218,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>12°</p>
+                                            <p>14°</p>
 
                                         </td>
 
@@ -241,12 +248,12 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>4 horas aproximadamente</p>
+                                            <p>3 horas aproximadamente</p>
 
                                         </td>
 
                                     </tr>
-                                         <tr valign="top">
+                                        <!-- <tr valign="top">
 
                                         <td width="281" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
@@ -267,7 +274,7 @@
 
                                         </td>
 
-                                    </tr>
+                                    </tr>-->
                                      
 
                         </table></center></font>
@@ -296,7 +303,7 @@
 
                                 <li>Abstenerse de participar: mujeres en estado de embarazo, personas que tengan problemas de salud complejos</li>
 
-                                <li><ins>Abstenerse de asistir si no se encuentra inscrito</ins></li>
+                                <li><strong><ins>Abstenerse de asistir si no se encuentra inscrito</ins></strong></li>
                             </font>
 
                             <br>
